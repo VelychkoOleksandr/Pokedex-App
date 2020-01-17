@@ -1,5 +1,13 @@
-Firstly required to get all node packages. Run:
-### `npm i`
+### The app is hosted there: https://velychkooleksandr.github.io/
+
+### Known bugs/features
+- while you selected a certein filter and press 'load more' button you can see no effect(because a new chunk of pokemon's data can not contain certain type of pokemon so nothing to show but it works)
+- resizable 'type' row of pokemon details
+
+# Instructions
+
+Firstly get all required node packages. Run:
+### `npm install`
 
 ## Available Scripts
 
@@ -23,5 +31,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Known bugs
-- resizable 'type' row of pokemon details
+
